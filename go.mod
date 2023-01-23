@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/coinbase/rosetta-sdk-go v0.7.3
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.14.1
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.3.0
